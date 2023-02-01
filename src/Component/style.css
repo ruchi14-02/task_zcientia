@@ -1,0 +1,32 @@
+.iconcolor{
+    color:"grey";
+}
+.bottonAlign{
+    float:end;
+}
+.innermenu{
+    list-style-type: none;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+
+}
+
+.endIconSet{
+  display: flex;
+  justify-content: flex-end;
+}
+.topnav a:hover {
+  border-bottom: 3px solid red;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid red;
+}
